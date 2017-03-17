@@ -1,0 +1,32 @@
+{
+    "employee" : [
+    {
+    "Name": "Adam",
+    "Age": "100",
+    "Company": "EdenGarden",
+    "Nationality": "Something",
+    "Country": "OnthisEarth"
+    },
+    {
+    "Name": "Eve",
+    "Age": "80",
+    "Company": "Home",
+    "Nationality": "American",
+    "Country": "USA"
+    },
+    {
+    "Name": "Cain",
+    "Age": "60",
+    "Company": "HighSchool",
+    "Nationality": "European",
+    "Country": "Germany"
+    },
+    {
+    "Name": "Habel",
+    "Age": "50",
+    "Company": "BasicSchool",
+    "Nationality": "African",
+    "Country": "Africa"
+    }
+    ]
+}
