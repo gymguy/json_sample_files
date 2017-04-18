@@ -4,6 +4,7 @@
     "File name": "Essay",
     "Extension": ".txt",
     "Student": "Richard Voeten",
+    "PCN": "267825",
     "Content": "This is a test txt file for the COPP project",
     "Date created": "7-1-2017",
     "Date edited" : "3-4-2017"
@@ -12,6 +13,7 @@
     "File name": "T. Documentation: Plugin",
     "Extension": ".doc",
     "Student": "Benit Dhotekar",
+    "PCN": "168429",
     "Content": "This is a test document for the COPP project with Fontys information",
     "Date created": "18-3-2017",
     "Date edited" : "3-4-2017"
@@ -20,6 +22,7 @@
     "File name": "Process feedback",
     "Extension": ".docx",
     "Student": "Benjamin Jurg",
+    "PCN": "264816",
     "Content": "This is also just a dummy file for the COPP project",
     "Date created": "11-2-1027",
     "Date edited" : "3-4-2017"
@@ -28,6 +31,7 @@
     "File name": "Meeting information",
     "Extension": ".txt",
     "Student": "Johan de Lepper",
+    "PCN": "164925",
     "Content": "This is the final test txt file for the COPP project",
     "Date created": "1-4-2017",
     "Date edited" : "3-4-2017"
@@ -36,6 +40,7 @@
     "File name": "Final presentation",
     "Extension": ".pptx",
     "Student": "Daan van der Stek",
+    "PCN": "221946",
     "Content": "This is a test powerpoint presentation for the COPP project",
     "Date created": "4-4-2017",
     "Date edited" : "4-4-2017"
